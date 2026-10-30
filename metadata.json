@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix বাজিতপুর সমিতি ঢাকা - সদস্য তালিকা ও ডিরেক্টরি",
+  "description": "বাজিতপুর সমিতি ঢাকা-এর সকল সদস্যদের তালিকা, সহজ অনুসন্ধান, ইউনিয়ন ও পেশাভিত্তিক ফিল্টার এবং তথ্য ডিরেক্টরি।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
